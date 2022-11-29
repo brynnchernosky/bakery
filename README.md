@@ -1,13 +1,13 @@
 # README
 
+Link to your deployed web application running online
+
+- https://cheerfuldragonfly182.github.io/bakery/
+
 Describe the goal of the application and value to a user
 
 - The goal of the application is to allow users to view a bakery menu in an interactive manner with the ability to sort and filer results, as well as add and remove items from the menu to the user's cart. The total price of these items is aggregated in the cart.
 - This application provides value to users by allowing them to filter for allergens or food/drink preferences; allowing them to sort by different values to view more relevant options sooner; allowing them to easily add/remove items from their cart so they can consider different options; and helping them keep track of spending by keeping a running sum of the price to purchase their cart.
-
-Link to your deployed web application running online
-
--
 
 Explain the organization of your Components, and the props and state related to them
 
